@@ -1,2 +1,2 @@
-# AI_Note
-Summary of AI essences
+# References:
+* ArtGenerator[https://pharmapsychotic.com/tools.html]
