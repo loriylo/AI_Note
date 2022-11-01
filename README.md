@@ -1,2 +1,2 @@
 # References:
-* ArtGenerator[https://pharmapsychotic.com/tools.html]
+* [ArtGenerator](https://pharmapsychotic.com/tools.html)
